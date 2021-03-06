@@ -1,0 +1,36 @@
+{
+  "name": "valkyrie",
+  "version": "1.0.0",
+  "description": "A powerful codesigning utility with RESTful API and Web Panel.",
+  "main": "index.js",
+  "scripts": {
+    "tests": "clear; node ./tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlammableLabs/Valkyrie.git"
+  },
+  "keywords": [
+    "ios",
+    "codesign",
+    "altstore",
+    "signer",
+    "ipa",
+    "sign",
+    "signing",
+    "codesigning",
+    "ipa-signer",
+    "ipa-signing",
+    "altsigner",
+    "altserver"
+  ],
+  "author": "Flammable Labs (D.B.A Ignition)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FlammableLabs/Valkyrie/issues"
+  },
+  "homepage": "https://github.com/FlammableLabs/Valkyrie#readme",
+  "dependencies": {
+    "openssl-nodejs": "^1.0.5"
+  }
+}

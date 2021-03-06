@@ -1,1 +1,4 @@
 .DS_Store
+zsign
+node_modules
+package-lock.json
